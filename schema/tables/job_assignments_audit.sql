@@ -7,7 +7,3 @@ CREATE TABLE job_assignments_audit (
   changed_by   VARCHAR2(100),
   changed_on   TIMESTAMP
 );
-
-
-
-@schema/triggers/trg_audit_job_assignments.sql
